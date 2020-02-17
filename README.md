@@ -1,3 +1,1 @@
-# hello-world
-Getting started with git-hub
-I am a Microsoft SharePoint Administrator with some knowledge of html, javascript, and css. Via git-hub my goal is to broaden my web-development knowledge base.
+My name is Steve. Currently web-development is more of a hobby to me than anything else. However, I recently retired from the military and I'm considering employment opportunities within web and app development.
